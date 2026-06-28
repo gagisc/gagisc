@@ -2,7 +2,7 @@
 
 I optimize data centers to reduce energy and maintenance costs. My day-to-day is the unglamorous plumbing that keeps computers running: power, cooling, and the monitoring stack that watches both.
 
-Right now I'm focused on how electrical power travels from the utility grid all the way down to a server's power supply — and every piece of gear that conditions, backs up, and distributes it along the way. I keep a public working notebook at **[gagisc.github.io](https://gagisc.github.io)** where those notes live and link to each other.
+Right now I'm focused on how to optimize and maintain every piece of gear that conditions, backs up, and distributes data, power and cooling in a datacenter. I keep a public working notebook at **[gagisc.github.io](https://gagisc.github.io)** where those notes live and link to each other.
 
 ---
 
@@ -22,15 +22,14 @@ Right now I'm focused on how electrical power travels from the utility grid all 
 
 ## where I've worked
 
-- **Hyundai Robotics** — data center operations
-- **Hyundai Autoever** ([@HYUNDAI-AUTOEVER-OSS](https://github.com/HYUNDAI-AUTOEVER-OSS)) — infrastructure and monitoring
-- Premier financial institutions across multiple sites
+- **Hyundai Group of Companies** - Maintained multi-site, multi-continent spanning data centers from installs all the way to maintanence and continuous improvement cycles.
+- **Power Corporation of Canada subsidaries** - Maintained systems, changes and updates to a canada-wide spanning infrastructure with a near 99.8% uptime maintained across non-redundant infrastructure via prediction, analysis and maintanence. A lot of what I base my public facing projects on.
 
 ---
 
 ## the notebook
 
-Everything I know about data center power is written down and public:
+Most of what I know about data center operations is written down and public:
 
 - [Data center power systems](https://gagisc.github.io/data-center-power-systems) — the full map
 - [Field notes](https://gagisc.github.io/field-notes) — real problems, limited clever fixes
@@ -41,7 +40,7 @@ Everything I know about data center power is written down and public:
 
 ## beyond the floor
 
-Drawing taught me to slow down and notice fine details — the same habit that makes most of the fixes in [Field notes](https://gagisc.github.io/field-notes) work. I also make things offline and share them at [gagisc.github.io/crafts](https://gagisc.github.io/crafts).
+I like drawing, which taught me attention to fine details, reading boooks and watching horror. Attention to detail is a habit that makes most of the fixes in [Field notes](https://gagisc.github.io/field-notes) work. I also make things online and share them at [gagisc.github.io/crafts](https://gagisc.github.io/crafts).
 
 ---
 
