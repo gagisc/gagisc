@@ -22,8 +22,8 @@ Right now I'm focused on how to optimize and maintain every piece of gear that c
 
 ## where I've worked
 
-- **Hyundai Group of Companies** - Maintained multi-site, multi-continent spanning data centers from installs all the way to maintanence and continuous improvement cycles.
-- **Power Corporation of Canada subsidaries** - Maintained systems, changes and updates to a canada-wide spanning infrastructure with a near 99.8% uptime maintained across non-redundant infrastructure via prediction, analysis and maintanence. A lot of what I base my public facing projects on.
+- **Hyundai Group of Companies** - Maintained multi-site, multi-continent spanning data centers from installs all the way to maintanence and continuous improvement cycles
+- **Power Corporation of Canada subsidaries** - Maintained systems, changes and updates to a canada-wide spanning infrastructure with a near 99.8% uptime maintained across non-redundant infrastructure via prediction, analysis and maintanence. A lot of what I base my public facing projects on
 
 ---
 
