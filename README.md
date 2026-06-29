@@ -10,7 +10,7 @@
 ```
 [Mountains](https://www.asciiart.eu/art/ec00171f6c37d765) - by Joan G. Stark
 
-# hi, I'm Ashraf — [gagisc](https://gagisc.github.io)
+# hi, I'm Ashraf - [gagisc](https://gagisc.github.io)
 
 I optimize data centers to reduce energy and maintenance costs. My day-to-day is the unglamorous plumbing that keeps computers running: power, cooling, and the monitoring stack that watches both.
 
