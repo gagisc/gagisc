@@ -43,10 +43,10 @@ Right now I'm focused on how to optimize and maintain every piece of gear that c
 
 Most of what I know about data center operations is written down and public:
 
-- [Data center power systems](https://gagisc.github.io/data-center-power-systems) — the full map
-- [Field notes](https://gagisc.github.io/field-notes) — real problems, limited clever fixes
-- [IOC operations](https://gagisc.github.io/ioc-operations) — monitoring, ticketing, RCA, SLA
-- [The new data center buildout](https://gagisc.github.io/the-new-data-center-buildout) — liquid cooling, 800V DC, on-site generation, silicon photonics
+- [Data center power systems](https://gagisc.github.io/data-center-power-systems) - the full map
+- [Field notes](https://gagisc.github.io/field-notes) - real problems, limited clever fixes
+- [IOC operations](https://gagisc.github.io/ioc-operations) - monitoring, ticketing, RCA, SLA
+- [The new data center buildout](https://gagisc.github.io/the-new-data-center-buildout) - liquid cooling, 800V DC, on-site generation, silicon photonics
 
 ---
 
