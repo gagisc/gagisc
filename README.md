@@ -20,7 +20,7 @@ Right now I'm focused on how to optimize and maintain every piece of gear that c
 
 ## what I build
 
-| project | what it does |
+| projects | tinkerings |
 |---|---|
 | [Power-Guardian](https://github.com/gagisc/Power-Guardian) | detects power anomalies across Eaton ePDU G3, APC Smart-UPS SRT and Schneider Galaxy systems; flags over-provisioned PDUs to recover stranded energy |
 | [dc-energy-savings](https://github.com/gagisc/dc-energy-savings) | FLIR thermal video + DS18B20 sensors on a Raspberry Pi - reduced hotspot detection latency by 60% and reactive cooling costs by 18% |
@@ -30,21 +30,13 @@ Right now I'm focused on how to optimize and maintain every piece of gear that c
 | [network-switch-patcher](https://github.com/gagisc/network-switch-patcher) | safe, dry-run-first CLI for pushing tested remediations to Juniper and Cisco switches - err-disabled ports, BPDU guard, LLDP, jumbo frames |
 | [intune-selfheal](https://github.com/gagisc/intune-selfheal) | detects Intune enrolment failures and auto-remediates with sync, MDM token refresh, or extension restart; logs everything to Grafana |
 
----
-
-## where I've worked
-
-- **Hyundai Group of Companies** - Maintained multi-site, multi-continent spanning data centers from installs all the way to maintanence and continuous improvement cycles
-- **Power Corporation of Canada subsidaries** - Maintained systems, changes and updates to a canada-wide spanning infrastructure with a near 99.8% uptime maintained across non-redundant infrastructure via prediction, analysis and maintanence. A lot of what I base my public facing projects on
-
----
 
 ## the notebook
 
 Most of what I know about data center operations is written down and public:
 
 - [Data center power systems](https://gagisc.github.io/data-center-power-systems) - the full map
-- [Field notes](https://gagisc.github.io/field-notes) - real problems, limited clever fixes
+- [Field notes](https://gagisc.github.io/field-notes) - real problems, limited fixes
 - [IOC operations](https://gagisc.github.io/ioc-operations) - monitoring, ticketing, RCA, SLA
 - [The new data center buildout](https://gagisc.github.io/the-new-data-center-buildout) - liquid cooling, 800V DC, on-site generation, silicon photonics
 
