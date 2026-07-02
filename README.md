@@ -10,12 +10,6 @@
 ```
 [Mountains](https://www.asciiart.eu/art/ec00171f6c37d765) - by Joan G. Stark
 
-# hi, I'm Ashraf - [gagisc](https://gagisc.github.io)
-
-I optimize data centers to reduce energy and maintenance costs. My day-to-day is the unglamorous plumbing that keeps computers running: power, cooling, and the monitoring stack that watches both.
-
-Right now I'm focused on how to optimize and maintain every piece of gear that conditions, backs up, and distributes data, power and cooling in a datacenter. I keep a public working notebook at **[gagisc.github.io](https://gagisc.github.io)** where those notes live and link to each other.
-
 ---
 
 ## what I build
@@ -29,22 +23,6 @@ Right now I'm focused on how to optimize and maintain every piece of gear that c
 | [dc-cable-audit](https://github.com/gagisc/dc-cable-audit) | discovers cabling topology via LLDP/CDP, flags missing neighbors, speed mismatches, and undocumented connections before they become incidents |
 | [network-switch-patcher](https://github.com/gagisc/network-switch-patcher) | safe, dry-run-first CLI for pushing tested remediations to Juniper and Cisco switches - err-disabled ports, BPDU guard, LLDP, jumbo frames |
 | [intune-selfheal](https://github.com/gagisc/intune-selfheal) | detects Intune enrolment failures and auto-remediates with sync, MDM token refresh, or extension restart; logs everything to Grafana |
-
-
-## the notebook
-
-Most of what I know about data center operations is written down and public:
-
-- [Data center power systems](https://gagisc.github.io/data-center-power-systems) - the full map
-- [Field notes](https://gagisc.github.io/field-notes) - real problems, limited fixes
-- [IOC operations](https://gagisc.github.io/ioc-operations) - monitoring, ticketing, RCA, SLA
-- [The new data center buildout](https://gagisc.github.io/the-new-data-center-buildout) - liquid cooling, 800V DC, on-site generation, silicon photonics
-
----
-
-## beyond the floor
-
-I like drawing, which taught me attention to fine details, reading boooks and watching horror. Attention to detail is a habit that makes most of the fixes in [Field notes](https://gagisc.github.io/field-notes) work. I also make things online and share them at [gagisc.github.io/crafts](https://gagisc.github.io/crafts).
 
 ---
 
