@@ -14,7 +14,7 @@
 
 ## The What ##
 
-Making [things](https://gagisc.github.io/crafts), reading [mathematical models](https://gagisc.github.io/predictive-analysis-for-data-center-operations) for predictive models, and just [enjoying life](https://gagisc.github.io/offline)
+Making [things](https://gagisc.github.io/crafts), reading [mathematical models](https://gagisc.github.io/predictive-analysis-for-data-center-operations) for predictive analysis, and just [enjoying life](https://gagisc.github.io/offline)
 
 ---
 
