@@ -12,7 +12,7 @@
 
 ---
 
-Making [things](https://gagisc.github.io/cc/crafts), reading [mathematical models](https://gagisc.github.io/pp/predictive-analysis-for-data-center-operations) for predictive analysis, and just [enjoying life](https://gagisc.github.io/offline)
+Making [things](https://gagisc.github.io/cc/crafts), [devices](https://gagisc.github.io/bb/building-custom-datacenter-devices) reading [mathematical models](https://gagisc.github.io/pp/predictive-analysis-for-data-center-operations) for predictive analysis, and just [enjoying life](https://gagisc.github.io/offline)
 
 ---
 
