@@ -18,4 +18,4 @@ Making [things](https://gagisc.github.io/cc/crafts), [devices](https://gagisc.gi
 
 **reach me:** [gagisc@outlook.com](mailto:gagisc@outlook.com) · Discord `@gagisc` · [gagisc.github.io](https://gagisc.github.io)
 
-<!—##[![gagisc profile views](https://u8views.com/api/v1/github/profiles/254178421/views/day-week-month-total-count.svg)](https://u8views.com/github/gagisc) —>
+[//]: <> (##[![gagisc profile views](https://u8views.com/api/v1/github/profiles/254178421/views/day-week-month-total-count.svg)](https://u8views.com/github/gagisc) )
