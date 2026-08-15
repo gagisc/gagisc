@@ -12,10 +12,10 @@
 
 ---
 
-Making [things](https://gagisc.github.io/cc/crafts), [devices](https://gagisc.github.io/bb/building-custom-datacenter-devices), reading [mathematical models](https://gagisc.github.io/pp/predictive-analysis-for-data-center-operations) for predictive analysis, and just [enjoying life](https://gagisc.github.io/offline)
+Making [things](https://gagisc.me/cc/crafts), [devices](https://gagisc.me/bb/building-custom-datacenter-devices), reading [mathematical models](https://gagisc.me/pp/predictive-analysis-for-data-center-operations) for predictive analysis, and just [enjoying life](https://gagisc.me/offline)
 
 ---
 
-**reach me:** [gagisc@outlook.com](mailto:gagisc@outlook.com) · Discord `@gagisc` · [gagisc.github.io](https://gagisc.github.io)
+**reach me:** [gagisc@outlook.com](mailto:gagisc@outlook.com) · Discord `@gagisc` · [gagisc.me](https://gagisc.me)
 
 <!--- (##[![gagisc profile views](https://u8views.com/api/v1/github/profiles/254178421/views/day-week-month-total-count.svg)](https://u8views.com/github/gagisc) ) --->
